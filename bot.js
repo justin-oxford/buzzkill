@@ -181,4 +181,4 @@ client.on('error', error => console.error(error));
 client.on('warn', info => console.error(info));
 client.on('debug', info => console.log(info));
 //login token
-client.login('NjE4NDc1NjYwNzgzOTEwOTE0.XXqIbA.drJJfyeJg0lr-w-FJ6Fk3hgf4s8');
+client.login('TOKEN');
