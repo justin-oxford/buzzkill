@@ -1,0 +1,15 @@
+{
+    "name": "Buzzkill",
+    "version": "1.0.0",
+    "description": "Kills buzzes.",
+    "main": "bot.js",
+    "author": "Justin Oxford",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "discord.js": "^11.5.1",
+        "get-json": "^1.0.1",
+        "mysql": "^2.17.1",
+        "sqlite": "^3.0.3",
+        "winston": "^3.2.1"
+    }
+}
